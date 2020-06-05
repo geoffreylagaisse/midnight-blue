@@ -72,3 +72,5 @@ midnight_blue:
   table-row-background-color: "#353840"
   text-primary-color: "var(--primary-text-color)"
   toggle-button-color: "var(--primary-color)"
+  markdown-code-background-color: 'var(--sidebar-background-color)'
+
